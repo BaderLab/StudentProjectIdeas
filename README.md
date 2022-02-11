@@ -1,5 +1,5 @@
 # StudentProjectIdeas
-Project ideas for summer and co-op students
+Project ideas for summer and co-op/intern students
 
 Capture project ideas in the issue tracker.  Please follow the lead of https://github.com/nrnb/GoogleSummerOfCode/issues (specifically, the use of templates and tags)
 
