@@ -27,8 +27,9 @@ To:
 
 **Deadline - July 15**
 
-## Available Summer Programs that the Baderlab Mentors students through. Some of these come with funding, or funding can be applied for.
+## Summer Programs that the Baderlab Mentors Students Through.
 
+* Some of these come with funding, or funding can be applied for.
 * [Summer Program at the Molecular Genetics Department](https://moleculargenetics.utoronto.ca/undergraduate-summer-research-program)
 * [Summer Program at the Donnelly Centre](https://thedonnellycentre.utoronto.ca/summer-undergraduate-research-program)
 * [Google Summer of Code - through NRNB](https://nrnb.org/gsoc.html)  (only for open source software development)
